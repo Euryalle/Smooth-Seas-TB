@@ -1,0 +1,51 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,706,,1920,1200
+ F,0,706,1337,0.6,0
+ P,0,706,1337,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,10791,,1920,1200
+ F,0,10791,11423,0.4,0
+ P,0,10791,11423,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,12054,,1920,1200
+ F,0,12054,12686,0.4,0
+ P,0,12054,12686,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,14580,,1920,1200
+ F,0,14580,15212,0.4,0
+ P,0,14580,15212,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,17107,,1920,1200
+ F,0,17107,17738,0.4,0
+ P,0,17107,17738,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,20896,,1920,1200
+ F,0,20896,21528,0.6,0
+ P,0,20896,21528,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,53738,,1920,1200
+ F,0,53738,54370,0.6,0
+ P,0,53738,54370,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,73949,,1920,1200
+ F,0,73949,74580,0.6,0
+ P,0,73949,74580,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,99212,,1920,1200
+ F,0,99212,99844,0.6,0
+ P,0,99212,99844,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,157660,,1920,1200
+ F,0,157660,158291,0.6,0
+ P,0,157660,158291,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,180396,,1920,1200
+ F,0,180396,181028,0.6,0
+ P,0,180396,181028,A
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples

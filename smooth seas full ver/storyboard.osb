@@ -1,0 +1,139 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,23423,,1920,1200
+ F,0,23423,24054,0.4,0
+ P,0,23423,24054,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,33528,,1920,1200
+ F,0,33528,34159,0.4,0
+ P,0,33528,34159,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,43633,,1920,1200
+ F,0,43633,44265,0.6,0
+ P,0,43633,44265,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,63844,,1920,1200
+ F,0,63844,64475,0.6,0
+ P,0,63844,64475,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,65107,,1920,1200
+ F,0,65107,65738,0.4,0
+ P,0,65107,65738,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,66370,,1920,1200
+ F,0,66370,67001,0.6,0
+ P,0,66370,67001,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,67633,,1920,1200
+ F,0,67633,68265,0.4,0
+ P,0,67633,68265,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,68894,,1920,1200
+ F,0,68894,69528,0.6,0
+ P,0,68894,69528,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,70159,,1920,1200
+ F,0,70159,70791,0.4,0
+ P,0,70159,70791,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,71423,,1920,1200
+ F,0,71423,72054,0.6,0
+ P,0,71423,72054,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,79001,,1920,1200
+ F,0,79001,79633,0.6,0
+ P,0,79001,79633,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,94159,,1920,1200
+ F,0,94159,94791,0.4,0
+ P,0,94159,94791,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,109317,,1920,1200
+ F,0,109317,109949,0.6,0
+ P,0,109317,109949,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,110580,,1920,1200
+ F,0,110580,111212,0.6,0
+ P,0,110580,111212,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,111844,,1920,1200
+ F,0,111844,112475,0.4,0
+ P,0,111844,112475,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,113107,,1920,1200
+ F,0,113107,113738,0.6,0
+ P,0,113107,113738,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,114370,,1920,1200
+ F,0,114370,115001,0.4,0
+ P,0,114370,115001,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,115633,,1920,1200
+ F,0,115633,116265,0.6,0
+ P,0,115633,116265,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,116896,,1920,1200
+ F,0,116896,117528,0.6,0
+ P,0,116896,117528,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,121949,,1920,1200
+ F,0,121949,122580,0.4,0
+ P,0,121949,122580,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,142159,,1920,1200
+ F,0,142159,142791,0.4,0
+ P,0,142159,142791,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,143107,,1920,1200
+ F,0,143107,143738,0.4,0
+ P,0,143107,143738,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,144686,,1920,1200
+ F,0,144686,145317,0.4,0
+ P,0,144686,145317,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,145633,,1920,1200
+ F,0,145633,146265,0.4,0
+ P,0,145633,146265,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,147212,,1920,1200
+ F,0,147212,148195,0.4,0
+ P,0,147212,148195,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,147212,,1920,1200
+ F,0,147212,148195,0.4,0
+ P,0,147212,148195,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,167765,,1920,1200
+ F,0,167765,168396,0.6,0
+ P,0,167765,168396,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,169028,,1920,1200
+ F,0,169028,169660,0.6,0
+ P,0,169028,169660,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,170291,,1920,1200
+ F,0,170291,170923,0.4,0
+ P,0,170291,170923,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,171554,,1920,1200
+ F,0,171554,172186,0.6,0
+ P,0,171554,172186,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,172817,,1920,1200
+ F,0,172817,173449,0.4,0
+ P,0,172817,173449,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,174081,,1920,1200
+ F,0,174081,174712,0.6,0
+ P,0,174081,174712,A
+Sprite,Background,Centre,"sb\flashlight.png",320,240
+ V,0,175344,,1920,1200
+ F,0,175344,175975,0.6,0
+ P,0,175344,175975,A
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
